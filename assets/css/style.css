@@ -22,6 +22,10 @@ h5,
 h6 {
   color: #1e1e1e;
 }
+.btn-color{
+  
+  
+}
 
 a {
   color: #1e1e1e;
@@ -90,7 +94,7 @@ a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center;
+  background-position: bottom center;
 }
 
 @media (max-width: 1024px) {
